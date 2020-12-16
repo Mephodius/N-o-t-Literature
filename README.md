@@ -1,7 +1,10 @@
 # N-o-t-Literature
 "Very" interesting literature, that i probably would never read
+
 Blinov https://careers.epam.by/content/dam/epam/by/book_epam_by/JAVA_Methods_Programming_v2.march2015.pdf ✖
+
 Ched Fauler "Passionate programmer" https://rutracker.org/forum/viewtopic.php?t=5050259 ✔
+
 Bruce Eckel "Thinking in Java" https://rutracker.org/forum/viewtopic.php?t=4941725 ✖
 
 //Some interesting Jaba facts ive researched
